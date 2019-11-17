@@ -1,8 +1,6 @@
 ## HOLA PABLO
 
-You can use the [editor on GitHub](https://github.com/ILUMINADO668/UCasagrande2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+TRABAJO DE VISUALIZACION DE DATOS GENEROS CIBERPERIODISTICOS 2019.
 
 ### Markdown
 
